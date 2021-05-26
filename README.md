@@ -5,6 +5,7 @@
 * We are using this [sample viewer](https://github.com/Autodesk-Forge/learn.forge.viewhubmodels/tree/nodejs) from Autodesk.
 * This weird behavior does not occur when looking at the model in BIM 360 Docs.
 
+EDIT: see this [post](https://stackoverflow.com/questions/64559195/problems-with-forcedoublesided-setting) for a hacky fix.
 ## Screenshots
 
 Original model in BIM 360 Docs
